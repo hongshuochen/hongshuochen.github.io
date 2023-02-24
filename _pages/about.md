@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.usc.edu/'>University of Southern California</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href=#>University of Southern California</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: img.jpg
+  image: phd.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
